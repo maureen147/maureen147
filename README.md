@@ -32,4 +32,4 @@ I am always open to discussing technology, collaboration opportunities, or new i
 
 LinkedIn: maureen-attah
 GitHub: @maureen147
-Portfolio: portfolio
+Portfolio: https://my-portfolio-sigma-one-19.vercel.app/
