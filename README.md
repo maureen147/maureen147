@@ -1,4 +1,5 @@
-Backend Engineering Student @ ALX Africa
+Backend Engineering Student @ ALX Africa 
+Software Developer 
 Full-Stack Developer
 🧠 About Me
 I am a passionate and results-driven software developer with a foundation in full-stack development, currently specializing in Backend Engineering through an intensive, project-based program at ALX. My expertise is focused on building robust, scalable, and efficient server-side systems using Python(Django) and JavaScript (Node.js). I thrive in collaborative environments and am passionate about solving complex problems with clean, logical code.
